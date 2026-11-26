@@ -1,0 +1,15 @@
+{
+  "name": "seenby",
+  "version": "1.0.0",
+  "description": "AI search visibility tracking in Claude: see how ChatGPT, Perplexity, Gemini and Google AI Overviews mention your brand with Seenby, the questions where you're missing, the competitors named instead and the pages to get onto.",
+  "author": {
+    "name": "Seenby",
+    "url": "https://seenbyapp.com"
+  },
+  "homepage": "https://seenbyapp.com/developers/",
+  "repository": "https://github.com/seenbyapp/plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "claude", "ai-search-visibility", "ai-visibility", "generative-engine-optimization", "geo", "ai-overviews", "llm-brand-monitoring", "brand-mentions", "seo"],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://seenbyapp.com/privacy/"
+}

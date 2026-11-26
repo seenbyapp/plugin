@@ -1,0 +1,20 @@
+{
+  "name": "seenby",
+  "version": "1.0.0",
+  "description": "AI search visibility tracking: see how ChatGPT, Perplexity, Gemini and Google's AI answers mention your brand with Seenby.",
+  "author": {
+    "name": "Seenby",
+    "url": "https://seenbyapp.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "AI search visibility by Seenby",
+    "shortDescription": "Track brand mentions in AI answers",
+    "longDescription": "AI search visibility tracking for your brand. Read your Seenby reports for AI visibility tracking, LLM brand monitoring and generative engine optimization (GEO): the questions where ChatGPT, Perplexity, Gemini, Google AI Mode and Google AI Overviews leave your brand out or rank it behind a rival, who they name instead, and the pages those answers cite. Set up new brands from a website, add questions and competitors, and start runs within your plan's limits.",
+    "developerName": "Seenby",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Where is my brand missing in AI answers this week, and which pages should I get onto?"
+  }
+}

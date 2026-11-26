@@ -1,0 +1,15 @@
+{
+  "name": "seenby",
+  "owner": {
+    "name": "Seenby",
+    "email": "hello@seenbyapp.com"
+  },
+  "description": "AI search visibility by Seenby for Claude: track brand mentions in AI answers.",
+  "plugins": [
+    {
+      "name": "seenby",
+      "source": "./",
+      "description": "AI search visibility tracking: read AI visibility reports, brand mentions in AI answers, cited pages and answer history, and run tracking for your brands."
+    }
+  ]
+}

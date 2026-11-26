@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seenby": {
+      "type": "http",
+      "url": "https://seenbyapp.com/mcp"
+    }
+  }
+}
